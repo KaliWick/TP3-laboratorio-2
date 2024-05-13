@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1713959979 source:c:\users\pc-15\desktop\alejo\tp3\main.cpp
+	<iostream>
+	<cstring>
+	"prototipos.h"
+	"EMPRESAS.H"
+	"CONURBANO.H"
+	"archivos_empresas.h"
+	"Archivos_conurbano.h"
+	"funciones.h"
+	"subMenu.h"
+	"menuConurbano.h"
+	"menuReportes.h"
+
+1713965909 c:\users\pc-15\desktop\alejo\tp3\prototipos.h
+
+1713969340 c:\users\pc-15\desktop\alejo\tp3\empresas.h
+
+1713965809 c:\users\pc-15\desktop\alejo\tp3\conurbano.h
+
+1713968062 c:\users\pc-15\desktop\alejo\tp3\archivos_empresas.h
+
+1713959129 c:\users\pc-15\desktop\alejo\tp3\archivos_conurbano.h
+
+1713969908 c:\users\pc-15\desktop\alejo\tp3\funciones.h
+
+1713959074 c:\users\pc-15\desktop\alejo\tp3\submenu.h
+
+1713959701 c:\users\pc-15\desktop\alejo\tp3\menuconurbano.h
+
+1713969238 c:\users\pc-15\desktop\alejo\tp3\menureportes.h
+
+1714054986 source:c:\users\pc-13\desktop\tp3\main.cpp
+	<iostream>
+	<cstring>
+	"prototipos.h"
+	"EMPRESAS.H"
+	"MUNICIPIO.H"
+	"archivos_empresas.h"
+	"Archivos_municipio.h"
+	"funciones.h"
+	"subMenu.h"
+	"menuMunicipio.h"
+	"menuReportes.h"
+	"menuConfig.h"
+
+1714048867 c:\users\pc-13\desktop\tp3\prototipos.h
+
+1713969342 c:\users\pc-13\desktop\tp3\empresas.h
+
+1713965810 c:\users\pc-13\desktop\tp3\conurbano.h
+
+1714055066 c:\users\pc-13\desktop\tp3\archivos_empresas.h
+
+1713959130 c:\users\pc-13\desktop\tp3\archivos_conurbano.h
+
+1714053277 c:\users\pc-13\desktop\tp3\funciones.h
+
+1713959076 c:\users\pc-13\desktop\tp3\submenu.h
+
+1714045997 c:\users\pc-13\desktop\tp3\menuconurbano.h
+
+1714047004 c:\users\pc-13\desktop\tp3\menureportes.h
+
+1714049498 c:\users\pc-13\desktop\tp3\municipio.h
+
+1714054861 c:\users\pc-13\desktop\tp3\archivos_municipio.h
+
+1714049079 c:\users\pc-13\desktop\tp3\menumunicipio.h
+
+1714054699 c:\users\pc-13\desktop\tp3\menuconfig.h
+
+1714660440 source:e:\alejo\laboratorio de computacion\lab 2\tp3\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"prototipos.h"
+	"EMPRESAS.H"
+	"MUNICIPIO.H"
+	"archivos_empresas.h"
+	"Archivos_municipio.h"
+	"funciones.h"
+	"subMenu.h"
+	"menuMunicipio.h"
+	"menuReportes.h"
+	"menuConfig.h"
+
+1714657428 e:\alejo\laboratorio de computacion\lab 2\tp3\prototipos.h
+
+1714660978 e:\alejo\laboratorio de computacion\lab 2\tp3\empresas.h
+
+1714049500 e:\alejo\laboratorio de computacion\lab 2\tp3\municipio.h
+
+1714055068 e:\alejo\laboratorio de computacion\lab 2\tp3\archivos_empresas.h
+
+1714650880 e:\alejo\laboratorio de computacion\lab 2\tp3\archivos_municipio.h
+
+1714660908 e:\alejo\laboratorio de computacion\lab 2\tp3\funciones.h
+
+1713959076 e:\alejo\laboratorio de computacion\lab 2\tp3\submenu.h
+
+1714660394 e:\alejo\laboratorio de computacion\lab 2\tp3\menumunicipio.h
+
+1714047006 e:\alejo\laboratorio de computacion\lab 2\tp3\menureportes.h
+
+1714650976 e:\alejo\laboratorio de computacion\lab 2\tp3\menuconfig.h
+
+1714660818 e:\alejo\laboratorio de computacion\lab 2\tp3\fecha.h
+
+1715032552 source:f:\alejo\laboratorio de computacion\lab 2\tp3\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"prototipos.h"
+	"EMPRESAS.H"
+	"MUNICIPIO.H"
+	"archivos_empresas.h"
+	"Archivos_municipio.h"
+	"funciones.h"
+	"menuEmpresas.h"
+	"menuMunicipio.h"
+	"menuReportes.h"
+	"menuConfig.h"
+
+1715033938 f:\alejo\laboratorio de computacion\lab 2\tp3\fecha.h
+
+1715033680 f:\alejo\laboratorio de computacion\lab 2\tp3\prototipos.h
+
+1715034012 f:\alejo\laboratorio de computacion\lab 2\tp3\empresas.h
+
+1714673390 f:\alejo\laboratorio de computacion\lab 2\tp3\municipio.h
+
+1714055068 f:\alejo\laboratorio de computacion\lab 2\tp3\archivos_empresas.h
+
+1714650880 f:\alejo\laboratorio de computacion\lab 2\tp3\archivos_municipio.h
+
+1715033724 f:\alejo\laboratorio de computacion\lab 2\tp3\funciones.h
+
+1714668764 f:\alejo\laboratorio de computacion\lab 2\tp3\submenu.h
+
+1714672744 f:\alejo\laboratorio de computacion\lab 2\tp3\menumunicipio.h
+
+1714047006 f:\alejo\laboratorio de computacion\lab 2\tp3\menureportes.h
+
+1715033714 f:\alejo\laboratorio de computacion\lab 2\tp3\menuconfig.h
+
+1715032536 f:\alejo\laboratorio de computacion\lab 2\tp3\menuempresas.h
+
+1715632936 source:c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"prototipos.h"
+	"EMPRESAS.H"
+	"MUNICIPIO.H"
+	"archivos_empresas.h"
+	"Archivos_municipio.h"
+	"funciones.h"
+	"menuEmpresas.h"
+	"menuMunicipio.h"
+	"menuReportes.h"
+	"menuConfig.h"
+
+1715259547 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\fecha.h
+
+1715257010 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\prototipos.h
+
+1715034012 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\empresas.h
+
+1714673390 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\municipio.h
+
+1714055068 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\archivos_empresas.h
+
+1715641410 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\archivos_municipio.h
+
+1715642242 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\funciones.h
+
+1715032536 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\menuempresas.h
+
+1714672744 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\menumunicipio.h
+
+1715642840 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\menureportes.h
+
+1715259472 c:\users\alejo\onedrive\escritorio\lab\lab 2\tp 3\menuconfig.h
+
